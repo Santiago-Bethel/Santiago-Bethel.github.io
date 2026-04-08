@@ -1,9 +1,12 @@
 {
   "name": "my-project-vue3",
   "private": true,
+  "homepage": "https://santiago-bethel.github.io/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
@@ -12,6 +15,7 @@
     "@emailjs/browser": "^4.4.1",
     "@iconify/vue": "^4.3.0",
     "aos": "^2.3.4",
+    "gh-pages": "^6.3.0",
     "swiper": "^11.2.1",
     "vue": "^3.5.13",
     "vue-countup-v3": "^1.4.2"

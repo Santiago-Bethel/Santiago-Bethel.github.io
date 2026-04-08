@@ -67,42 +67,42 @@ const projects=ref([
     {
         title:'Crud Sencillo',
         description:'Un sistema Crud basico de eliminar, guardar y modificar productos hecho en Java',
-        image: 'Crud-sencillo.png', 
+        image: '/Crud-sencillo.png', 
         tags:['Java'],
         codeLink:"https://github.com/Santiago-Bethel/Crud_sencillo"
     },
     {
         title:'Memory Game',
         description:'Un juego de cartas de memoria con efectos de sonido, temporizador y contador de intentos',
-        image: 'Memory-game.png',
+        image: '/Memory-game.png',
         tags:['HTML','Vue','CSS','Typescript'],
         codeLink:"https://github.com/Santiago-Bethel/Memory-Game"
     },
     {
         title:'Product Page',
         description:'Durante mis varios cambios de Pc perdí varios proyectos, solo me quedaron los más básicos y quiero empezar para mejorar este Portafolio con una página de venta de X producto y expandirlo a futuro con su Dashboard de productos',
-        image: 'proximamente.png',
+        image: '/proximamente.png',
         tags:['HTML','Vue','CSS','Typescript'],
         codeLink:"/"
     },
     {
         title:'Crud Sencillo',
         description:'Un sistema Crud basico de eliminar, guardar y modificar productos hecho en Java',
-        image: 'Crud-sencillo.png',
+        image: '/Crud-sencillo.png',
         tags:['Java'],
         codeLink:"https://github.com/Santiago-Bethel/Crud_sencillo"
     },
     {
         title:'Memory Game',
         description:'Un juego de cartas de memoria con efectos de sonido, temporizador y contador de intentos',
-        image: 'Memory-game.png',
+        image: '/Memory-game.png',
         tags:['HTML','Vue','CSS','Typescript'],
         codeLink:"https://github.com/Santiago-Bethel/Memory-Game"
     },
     {
         title:'Product Page',
         description:'Durante mis varios cambios de Pc perdí varios proyectos, solo me quedaron los más básicos y quiero empezar para mejorar este Portafolio con una página de venta de X producto y expandirlo a futuro con su Dashboard de productos',
-        image: 'proximamente.png',
+        image: '/proximamente.png',
         tags:['HTML','Vue','CSS','Typescript'],
         codeLink:"/"
     },
